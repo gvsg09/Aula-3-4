@@ -1,0 +1,15 @@
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\obj\Debug\net6.0\Aula 6 7.csproj.AssemblyReference.cache
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\obj\Debug\net6.0\Aula 6 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\obj\Debug\net6.0\Aula 6 7.AssemblyInfoInputs.cache
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\obj\Debug\net6.0\Aula 6 7.AssemblyInfo.cs
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\obj\Debug\net6.0\Aula 6 7.csproj.CoreCompileInputs.cache
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\bin\Debug\net6.0\Aula 6 7.exe
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\bin\Debug\net6.0\Aula 6 7.deps.json
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\bin\Debug\net6.0\Aula 6 7.runtimeconfig.json
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\bin\Debug\net6.0\Aula 6 7.dll
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\bin\Debug\net6.0\Aula 6 7.pdb
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\obj\Debug\net6.0\Aula 6 7.dll
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\obj\Debug\net6.0\refint\Aula 6 7.dll
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\obj\Debug\net6.0\Aula 6 7.pdb
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\obj\Debug\net6.0\Aula 6 7.genruntimeconfig.cache
+C:\Users\joaovguerreiro\Documents\GitHub\Aula 6 7\Aula 6 7\obj\Debug\net6.0\ref\Aula 6 7.dll
